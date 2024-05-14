@@ -1,4 +1,4 @@
-package com.example.userprofileregistration
+package com.example.userprofileregistration.Database
 
 import androidx.lifecycle.LiveData
 import androidx.room.Dao

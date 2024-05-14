@@ -13,16 +13,16 @@
         android:theme="@style/Theme.UserProfileRegistration"
         tools:targetApi="31">
         <activity
-            android:name=".ProfileDetailsActivity"
+            android:name=".Activity.ProfileDetailsActivity"
             android:exported="false" />
         <activity
-            android:name=".ProfileUpdateActivity"
+            android:name=".Activity.ProfileUpdateActivity"
             android:exported="false" />
         <activity
-            android:name=".ProfileAddActivity"
+            android:name=".Activity.ProfileAddActivity"
             android:exported="false" />
         <activity
-            android:name=".ProfileListActivity"
+            android:name=".Activity.ProfileListActivity"
             android:exported="false" />
         <activity
             android:name=".profile_list"
